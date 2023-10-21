@@ -2,7 +2,7 @@
 - 👀 I’m interested in data
 - 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
+- 📫 How to reach me  https://www.linkedin.com/in/jana-jegan-736455247/
 
 <!---
 Jegan7/Jegan7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
